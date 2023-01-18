@@ -1,2 +1,0 @@
-# tictactoe
-a javascript game
